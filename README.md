@@ -5,8 +5,7 @@
 
 A real-time collaborative whiteboard application built with **React**, **Konva**, **Express**, **MongoDB**, and **Socket.IO**. Users can draw, add shapes, write sticky notes, collaborate live, and use **AI-assisted canvas features**. Complete with role-based permissions, live cursors, edit locking, and undo/redo.
 
-> ✅ **Check the video walkthrough here:** [Watch Demo](#)
-> *(Replace `#` with your actual video link)*
+> ✅ **Check the video walkthrough here:** [Watch Demo](https://youtu.be/PCDnvVYBSC0)
 
 ---
 
