@@ -97,8 +97,6 @@ A real-time collaborative whiteboard application built with **React**, **Konva**
 
 ---
 
----
-
 ## 📌 TODO / Future Enhancements
 
 * 🔁 Export board as image or PDF
@@ -113,5 +111,3 @@ A real-time collaborative whiteboard application built with **React**, **Konva**
 ## 🙌 Acknowledgements
 
 This project was made with ❤️ and a lot of code.
-
----
