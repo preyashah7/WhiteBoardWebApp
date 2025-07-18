@@ -3,7 +3,7 @@
 
 # 🧑‍🎨 Collaborative Whiteboard
 
-A real-time collaborative whiteboard application built with **React**, **Konva**, **Express**, **MongoDB**, and **Socket.IO**. Users can draw, add shapes, write sticky notes, collaborate live, and use AI-assisted canvas features. Complete with role-based permissions, live cursors, edit locking, and undo/redo.
+A real-time collaborative whiteboard application built with **React**, **Konva**, **Express**, **MongoDB**, and **Socket.IO**. Users can draw, add shapes, write sticky notes, collaborate live, and use **AI-assisted canvas features**. Complete with role-based permissions, live cursors, edit locking, and undo/redo.
 
 > ✅ **Check the video walkthrough here:** [Watch Demo](#)
 > *(Replace `#` with your actual video link)*
@@ -54,17 +54,17 @@ A real-time collaborative whiteboard application built with **React**, **Konva**
   * **Snap-to-grid** support
 * Freehand drawing with live syncing.
 
+### 🧠 AI-Powered Commands
+
+* Type prompts like `"draw a red circle"` or `"add a sticky note"` and let AI generate it.
+* Powered by backend `/api/ai` route.
+
 ### 🔒 Role-Based Access
 
 * **Editors** can draw, edit, delete.
 * **Viewers** can only view canvas in real-time.
 * **Edit lock system**: shape-level lock prevents others from editing simultaneously.
 * 🔒 Lock icon appears on locked objects.
-
-### 🧠 AI-Powered Commands
-
-* Type prompts like `"draw a red circle"` or `"add a sticky note"` and let AI generate it.
-* Powered by backend `/api/ai` route.
 
 ### 🔄 Undo / Redo System
 
