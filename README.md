@@ -109,4 +109,5 @@ A real-time collaborative whiteboard application built with **React**, **Konva**
 
 ## 🙌 Acknowledgements
 
-This project was made with ❤️ and a lot of code.
+Built with ❤️ by Preya Shah — AI, full-stack, and ML enthusiast.
+
