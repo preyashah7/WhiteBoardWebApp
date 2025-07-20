@@ -11,7 +11,7 @@ A real-time collaborative whiteboard application built with **React**, **Konva**
 
 ## 🔍 Quick Stats
 
-- 🧑‍🤝‍🧑 Supports **up to 10 users** per board in real-time
+- 🧑‍🤝‍🧑 Supports **up to 5 users** per board in real-time
 - ⏱️ **<300ms latency** on drawing updates with Socket.IO
 - 🧠 **15+ AI prompts** parsed by backend LLM logic
 - 🔄 Tracks **100+ undo/redo events per board**
